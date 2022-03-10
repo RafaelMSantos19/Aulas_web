@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(to bottom, #567FF0, #FA4694);
+    margin: 0;
+    
+}
+
+header{
+    background: linear-gradient(to bottom, #9448DB, #567FF0);
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.Content{
+    padding: 2px 30px 2px 30px;
+   background-color: beige;
+   border-radius: 10px;
+   margin: 20px 100px 20px 100px ;
+}
+
+.Content li{
+    margin: 10px;
+}
+
+.topico{
+    font-weight: bold;
+}
+
+.H{
+    padding-left: 10em;
+}
+
+.Tabela01{
+    padding-left: 10em;
+}
